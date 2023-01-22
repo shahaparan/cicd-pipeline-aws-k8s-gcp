@@ -1,5 +1,5 @@
 
-#GCP Installation of Kubernetes Cluster
+# GCP Installation of Kubernetes Cluster
 
 ## Step-01: Introduction
 - Create Compute Engine (VM)
