@@ -27,7 +27,7 @@
 ## Step-04: Testing Cluster
 
    ```t
-    https://github.com/shahaparan/k8s-demo.git
+    git clone https://github.com/shahaparan/k8s-demo.git
 
     kubectl get nodes
     kubectl get all
